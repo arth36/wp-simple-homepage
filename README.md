@@ -38,6 +38,6 @@ For Demo click [here]( http://mydailyblogs.epizy.com/ )
  
 # Screenshots :-
 
-Pictorial Demo :-
+### Pictorial Demo :-
 
 ![Image of Demo Theme]( https://i.ibb.co/yN5SsKv/mainthemess.png )
