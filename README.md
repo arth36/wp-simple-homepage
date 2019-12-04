@@ -4,7 +4,7 @@ This Theme was developed during the training program provided by [rtCamp](https:
 
 code quality provided by :- [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/arth36/wp-simple-homepage/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/arth36/wp-simple-homepage/?branch=master)
 
-This Theme consist of Custom post type, banner slider, custom header & footer logo, footer widgets, childpages, etc.
+This Theme consist of Custom post type, banner slider, custom header & footer logo, footer widgets, childpages, etc and responsive too.
 
 * [ For Developers ](#for-developers)
 * [ For Users ](#for-users)
@@ -33,3 +33,8 @@ This Theme is not available on wordpress, user has to manually activate the Them
  4. >Go to your `Wordpress Admin Panel` and then go to Appearance folder and select Themes.
  5. >There will be a new theme named `wp-simple-homepage` and then activate it.
  6. >Last step is bit simple, `ENJOY IT!` :grin:
+ 
+For Demo click [here]( http://mydailyblogs.epizy.com/ )
+ 
+# Screenshots :-
+
