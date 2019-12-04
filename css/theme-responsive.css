@@ -209,7 +209,7 @@
 		-ms-user-select: none;
 		user-select: none;
 	}
-	#d_active1 {
+	.d_active {
 		background-color: #666;
 		color: #fff;
 	}
