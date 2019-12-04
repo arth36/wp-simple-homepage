@@ -14,4 +14,4 @@ This Theme consist of Custom post type, banner slider, custom header & footer lo
 
 ## List of main directories and files
 
-	
+ * > `css` :- this directory consist of one file named theme-responsive.css which is responsible for responsive nature of our website
