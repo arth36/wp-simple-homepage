@@ -19,6 +19,7 @@ This Theme consist of Custom post type, banner slider, custom header & footer lo
  * > `inc` :- this directory consist of one sub directory and four files, all files are included in main functions.php file
  * > `js` :- this directory consist of all the javascript files
  * > `functions.php` :- the main file of our theme, all the important files should be included here
+ * > `index.php` :- the main file of our theme
  * > `style.css` :- This file contains design for our theme
 
 and there are couple of other files which have used in our theme.
