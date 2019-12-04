@@ -20,4 +20,16 @@ This Theme consist of Custom post type, banner slider, custom header & footer lo
  * > `js` :- this directory consist of all the javascript files
  * > `functions.php` :- the main file of our theme, all the important files should be included here
  * > `style.css` :- This file contains design for our theme
+
 and there are couple of other files which have used in our theme.
+
+# For Users :-
+	
+This Theme is not available on wordpress, user has to manually activate the Theme, for this user has to follow some steps which has listed below:-
+
+ 1. >Click on `clone and download` and download the zip file.
+ 2. >From cpanel navigate to `wp-content` and then `themes` folder.
+ 3. >Create new Folder named `wp-simple-homepage` and copy all content of `wp-simple-homepage` which has downloaded from github.
+ 4. >Go to your `Wordpress Admin Panel` and then go to Appearance folder and select Themes.
+ 5. >There will be a new theme named `wp-simple-homepage` and then activate it.
+ 6. >Last step is bit simple, `ENJOY IT!` :grin:
