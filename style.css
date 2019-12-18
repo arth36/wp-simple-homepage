@@ -1065,3 +1065,54 @@ ul li {
     right: 0;
     border-left: 2px solid #fff;
 }
+.social_common{
+    background: url("images/wpshp_footer_social_sites/wpshp_social_icons.jpg") no-repeat;
+    background-size: 25px;
+    width: 25px;
+    height: 25px;
+}
+.social_fb{
+    background-position: 0 -120px;
+}
+.social_twitter {
+    background-position: 0 -150px;
+} 
+.social_linkedin {
+    background-position: 0 -180px;
+}
+.social_rss {
+    background-position: 0 -210px;
+}
+.social_fb_main:hover .social_fb {
+    background-position: 0 0px;
+}
+.social_fb_main:hover p {
+    color:#3b5998;
+}
+.social_twitter_main:hover .social_twitter {
+    background-position: 0 -30px;
+}
+.social_twitter_main:hover p {
+    color:#00acee;
+}
+.social_linkedin_main:hover .social_linkedin {
+    background-position: 0 -60px;
+}
+.social_linkedin_main:hover p {
+    color:#0e76a8;
+}
+.social_rss_main:hover .social_rss { 
+    background-position: 0 -90px;
+}
+.social_rss_main:hover p {
+    color:#ee802f;
+}
+.social_common_main{ 
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.social_common_main p{
+    color:#888; 
+    padding-left: 15px;
+}
