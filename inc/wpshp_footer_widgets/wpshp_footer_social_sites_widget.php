@@ -53,33 +53,24 @@ class Wpshp_Footer_Social_Sites_Widget extends WP_Widget {
         
         <a href="<?php echo get_option('wpshp_fb_url'); ?>">
             <div class="social_common_main social_fb_main">
-                <!--<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/wpshp_footer_social_sites/wpshp_facebook.png ?>" style='float: left;margin-right: 10px;'/>-->
-                <!--<style>
-                        .slide{
-                                background-image: url(<?php echo the_post_thumbnail_url(); ?>);
-                        }
-                        </style>-->
                 <div class="social_fb social_common"></div>
                 <p>Facebook</p>    
             </div>
         </a>
         <a href="<?php echo get_option('wpshp_twitter_url'); ?>">
             <div class="social_common_main social_twitter_main">
-                <!--<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/wpshp_footer_social_sites/wpshp_twitter.png ?>" style='float: left;margin-right: 10px;'>-->
                 <div class="social_twitter social_common"></div>
                 <p>Twitter</p> 
             </div>
         </a>
         <a href="<?php echo get_option('wpshp_linkedin_url'); ?>">
             <div class="social_common_main social_linkedin_main">
-                <!--<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/wpshp_footer_social_sites/wpshp_linkedin.png ?>" style='float: left;margin-right: 10px;'>-->
                 <div class="social_linkedin social_common"></div>
                 <p>Linked In</p>
             </div>
         </a>
         <a href="<?php echo get_option('wpshp_rss_url'); ?>">
             <div class="social_common_main social_rss_main">
-                <!--<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/wpshp_footer_social_sites/wpshp_rss.png?>" style='float: left;margin-right: 10px;'>-->
                 <div class="social_rss social_common"></div>
                 <p>RSS</p>
             </div>

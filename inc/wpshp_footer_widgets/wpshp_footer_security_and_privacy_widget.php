@@ -61,14 +61,7 @@ class Wpshp_Footer_Social_And_Privacy_Widget extends WP_Widget {
         <div class="footersitenav">                  
             <?php wp_nav_menu( array('theme_location' => 'security_privacy_menu') ); ?>  
         </div>
-         <?php
-        /* wp_nav_menu(
-             array(
-                 'theme_location' => 'security_privacy_menu',
-                 'container' => false,
-                )
-         );*/
-        ?>
+         
     		
     	<?php echo $after_widget; ?>
 	<?php

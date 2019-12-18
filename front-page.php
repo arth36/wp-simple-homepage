@@ -33,11 +33,7 @@ get_header();
                     <div class="slide">
                         <!-- displaying the image of post -->
                         <img src="<?php echo the_post_thumbnail_url(); ?>" />
-                        <!--<style>
-                        .slide{
-                                background-image: url(<?php echo the_post_thumbnail_url(); ?>);
-                        }
-                        </style>-->
+                        
                         <div class="banner-content">
                             <!-- displaying the title of post -->
                             <h2><?php echo the_title(); ?></h2>
