@@ -39,4 +39,4 @@ For Demo click [here]( http://mydailyblogs.epizy.com/ )
 
 ### Pictorial Demo :-
 
-![Image of Demo Theme]( https://i.ibb.co/yN5SsKv/mainthemess.png )
+![Image of Demo Theme]( https://i.ibb.co/fv34KsC/img.png )
